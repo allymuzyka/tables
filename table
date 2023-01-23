@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Tables</h1>
+<h2>Jonathan Toews Stats</h2>
+<table style="width:100%">
+  <tr>
+    <th>Season</th>
+    <th>Goals</th>
+    <th>Assists</th>
+  </tr>
+  <tr>
+    <td><b>2009-2010</b></td>
+    <td>25</td>
+    <td>43</td>
+  </tr>
+   <tr>
+    <td>2009-2010 also played at Canada for Olympics</td>
+    <td></td>
+    <td></td>
+  <tr>
+    <td><b>2010-2011</b></td>
+    <td>32</td>
+    <td>44</td>
+  </tr>
+   <tr>
+    <td><b>2011-2012</b></td>
+    <td>29</td>
+    <td>28</td>
+     <tr>
+    <td><b>Totals</b></td>
+    <td>86</td>
+    <td>115</td>
+</table>
+
+
+
+</body>
+</html>
